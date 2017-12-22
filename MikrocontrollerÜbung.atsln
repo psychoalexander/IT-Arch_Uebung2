@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Aufgabe2", "Aufgabe2\Aufgabe2.cproj", "{1FC55A4A-DE8A-4099-B897-62096C445475}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Aufgabe3", "Aufgabe3\Aufgabe3.cproj", "{3EEC95D9-EEF8-41AA-A66A-D1F53784DC56}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Aufgabe4", "Aufgabe4\Aufgabe4.cproj", "{9E978735-4139-402A-9C75-5D888149AF8D}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Aufgabe5", "Aufgabe5\Aufgabe5.cproj", "{7E8A9919-F6C1-4C07-9A4E-8C2B81BE4213}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Aufgabe6", "Aufgabe6\Aufgabe6.cproj", "{BAE1F8DA-FC6B-442A-9E23-9F20F7699751}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ExkursDebugging", "ExkursDebugging\ExkursDebugging.cproj", "{5A2BA263-158D-410D-BB79-259CE9AEBE7F}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Aufgabe7", "Aufgabe7\Aufgabe7.cproj", "{170D68EE-9283-40B0-9E62-8E0552EB6BB1}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Aufgabe1", "Aufgabe1\Aufgabe1.cproj", "{0331688F-5B7E-46AC-A58B-599BF7F21FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC55A4A-DE8A-4099-B897-62096C445475}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1FC55A4A-DE8A-4099-B897-62096C445475}.Debug|AVR.Build.0 = Debug|AVR
+		{1FC55A4A-DE8A-4099-B897-62096C445475}.Release|AVR.ActiveCfg = Release|AVR
+		{1FC55A4A-DE8A-4099-B897-62096C445475}.Release|AVR.Build.0 = Release|AVR
+		{3EEC95D9-EEF8-41AA-A66A-D1F53784DC56}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3EEC95D9-EEF8-41AA-A66A-D1F53784DC56}.Debug|AVR.Build.0 = Debug|AVR
+		{3EEC95D9-EEF8-41AA-A66A-D1F53784DC56}.Release|AVR.ActiveCfg = Release|AVR
+		{3EEC95D9-EEF8-41AA-A66A-D1F53784DC56}.Release|AVR.Build.0 = Release|AVR
+		{9E978735-4139-402A-9C75-5D888149AF8D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9E978735-4139-402A-9C75-5D888149AF8D}.Debug|AVR.Build.0 = Debug|AVR
+		{9E978735-4139-402A-9C75-5D888149AF8D}.Release|AVR.ActiveCfg = Release|AVR
+		{9E978735-4139-402A-9C75-5D888149AF8D}.Release|AVR.Build.0 = Release|AVR
+		{7E8A9919-F6C1-4C07-9A4E-8C2B81BE4213}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7E8A9919-F6C1-4C07-9A4E-8C2B81BE4213}.Debug|AVR.Build.0 = Debug|AVR
+		{7E8A9919-F6C1-4C07-9A4E-8C2B81BE4213}.Release|AVR.ActiveCfg = Release|AVR
+		{7E8A9919-F6C1-4C07-9A4E-8C2B81BE4213}.Release|AVR.Build.0 = Release|AVR
+		{BAE1F8DA-FC6B-442A-9E23-9F20F7699751}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BAE1F8DA-FC6B-442A-9E23-9F20F7699751}.Debug|AVR.Build.0 = Debug|AVR
+		{BAE1F8DA-FC6B-442A-9E23-9F20F7699751}.Release|AVR.ActiveCfg = Release|AVR
+		{BAE1F8DA-FC6B-442A-9E23-9F20F7699751}.Release|AVR.Build.0 = Release|AVR
+		{5A2BA263-158D-410D-BB79-259CE9AEBE7F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5A2BA263-158D-410D-BB79-259CE9AEBE7F}.Debug|AVR.Build.0 = Debug|AVR
+		{5A2BA263-158D-410D-BB79-259CE9AEBE7F}.Release|AVR.ActiveCfg = Release|AVR
+		{5A2BA263-158D-410D-BB79-259CE9AEBE7F}.Release|AVR.Build.0 = Release|AVR
+		{170D68EE-9283-40B0-9E62-8E0552EB6BB1}.Debug|AVR.ActiveCfg = Debug|AVR
+		{170D68EE-9283-40B0-9E62-8E0552EB6BB1}.Debug|AVR.Build.0 = Debug|AVR
+		{170D68EE-9283-40B0-9E62-8E0552EB6BB1}.Release|AVR.ActiveCfg = Release|AVR
+		{170D68EE-9283-40B0-9E62-8E0552EB6BB1}.Release|AVR.Build.0 = Release|AVR
+		{0331688F-5B7E-46AC-A58B-599BF7F21FFD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0331688F-5B7E-46AC-A58B-599BF7F21FFD}.Debug|AVR.Build.0 = Debug|AVR
+		{0331688F-5B7E-46AC-A58B-599BF7F21FFD}.Release|AVR.ActiveCfg = Release|AVR
+		{0331688F-5B7E-46AC-A58B-599BF7F21FFD}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
